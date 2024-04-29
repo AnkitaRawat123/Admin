@@ -1,0 +1,21 @@
+.add{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.add1{
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.data
+{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.inp{
+    margin-left: 80px;
+    padding: 20px;
+}
